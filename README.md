@@ -1,3 +1,3 @@
 eecs-368
 ========
-Projects for EECS 368
+Projects for Programming Language Paradigms
